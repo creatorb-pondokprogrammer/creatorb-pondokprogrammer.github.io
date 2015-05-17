@@ -1,0 +1,71 @@
+timezone: Indonesia
+name: Hasan Basri
+shortname: creatorb
+description: "Being to Bigger Contributor for ISLAM"
+github_repo: https://github.com/creatorb-pondokprogrammer/creatorb-pondokprogrammer.github.io
+avatar: creatorb1
+copyright: creatorb
+
+# Site URL
+url: http://creatorb-pondokprogrammer.github.io
+
+# Comment out if not wanted, change if wanted.
+twitter: https://twitter.com/creatorbe
+facebook: https://facebook.com/creatorbe
+googleplus: https://plus.google.com/118116077271759320582
+github: https://github.com/creatorb
+# gittip: https://gittip.com/
+flickr: https://www.flickr.com/photos/129324678@N07
+
+# February 11th, 2014 campaign.
+# See https://thedaywefightback.org for details.
+# The 'testing' option will enable the banner, even if it not Feb 11th
+
+thedaywefightback:
+    enable: false
+    testing: false
+
+# Flattr username
+flattr: creatorb
+
+paginate: 5
+
+scholar:
+    style: ieee
+
+exclude:
+    - '_assets'
+    - 'bin'
+    - 'Gemfile'
+    - 'Gemfile.lock'
+    - 'Rakefile.rb'
+    - 'README.md'
+
+search:
+    google:
+        cx: 'partner-pub-005998019459827876587:pj6m_z1orzg'
+
+# addthis:
+#  publisher: ra-52daa5464f2c1c4b
+
+analytics:
+  id:
+
+disqus:
+  shortname: creatorb
+
+sidebar:
+  - android:
+    title: "Android"
+    url: "/android"
+  - java:
+    title: "Java"
+    url: "/java"
+  - quotes:
+    title: "My Life"
+    url: "/life"
+
+sitemap:
+    file: "/sitemap.xml"
+    exclude:
+        - "/feed.xml"
