@@ -1,4 +1,4 @@
-title:            creatorb
+title:            creatorb the javandroid
 description:      "Programming blog's, tutorial about java and android"
 logo:             creatorb.png
 disqus_shortname: githube
@@ -35,10 +35,10 @@ owner:
   tumblr:
   weibo:
   # For Google Authorship https://plus.google.com/authorship
-google_plus:
+google_plus: https://plus.google.com/118116077271759320582
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:
+google_analytics: UA-63079984-2
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
